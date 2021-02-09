@@ -11,9 +11,13 @@ bs4: This is a dummy package managed by the developer of Beautiful Soup to preve
 
 requests: Requests allows you to send HTTP/1.1 requests extremely easily. Requests is a simple, yet elegant HTTP library.
 
-CHECK FOR MORE: https://pypi.org/project/requests/
-                https://pypi.org/project/beautifulsoup4/
-                https://pypi.org/project/bs4/
+CHECK FOR MORE: 1. https://pypi.org/project/requests/
+
+                2. https://pypi.org/project/beautifulsoup4/
+                
+                3. https://pypi.org/project/bs4/
+                
+                4. https://docs.python.org/3/library/smtplib.html
                 
 
 # CLOSURE
